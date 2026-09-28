@@ -1,0 +1,10 @@
+{
+  "name": "typescript-katas-starter",
+  "version": "1.2.0",
+  "description": "TypeScript Katas Starter",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}

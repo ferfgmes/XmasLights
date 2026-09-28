@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "strict": true,
+    "noImplicitAny": false,
+    "sourceMap": false,
+    "baseUrl": "./",
+    "paths": {
+      "@/*": ["app/*"]
+    },
+    "types": ["bun-types", "bun-types/test-globals"]
+  },
+  "exclude": ["node_modules"]
+}
